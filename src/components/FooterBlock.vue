@@ -15,13 +15,13 @@
                 </div>
                 <div class="flex gap-[32px] md:hidden">
                     <div class="social-icon">
-                        <img class="w-[100%]" src="/images/ic-social-fb.png" alt="social-fb"/>
+                        <img class="w-[100%]" src="images/ic-social-fb.png" alt="social-fb"/>
                     </div>
                     <div class="social-icon">
-                        <img class="w-[100%]" src="/images/ic-social-ig.png" alt="social-ig"/>
+                        <img class="w-[100%]" src="images/ic-social-ig.png" alt="social-ig"/>
                     </div>
                     <div class="social-icon">
-                        <img class="w-[100%]" src="/images/ic-social-line.png" alt="social-line"/>
+                        <img class="w-[100%]" src="images/ic-social-line.png" alt="social-line"/>
                     </div>
                 </div>
             </div>
@@ -33,13 +33,13 @@
                     </div>
                     <div class="hidden md:flex md:gap-[8px]">
                         <div class="social-icon">
-                            <img class="w-[100%]" src="/images/ic-social-fb.png" alt="social-fb"/>
+                            <img class="w-[100%]" src="images/ic-social-fb.png" alt="social-fb"/>
                         </div>
                         <div class="social-icon">
-                            <img class="w-[100%]" src="/images/ic-social-ig.png" alt="social-ig"/>
+                            <img class="w-[100%]" src="images/ic-social-ig.png" alt="social-ig"/>
                         </div>
                         <div class="social-icon">
-                            <img class="w-[100%]" src="/images/ic-social-line.png" alt="social-line"/>
+                            <img class="w-[100%]" src="images/ic-social-line.png" alt="social-line"/>
                         </div>
                     </div>
                 </div>

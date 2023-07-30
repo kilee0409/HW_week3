@@ -5,10 +5,10 @@
 <template>
   <section class="relative">
     <div class="md:hidden" >
-      <img class="w-[100%]" src="/images/home-header.png" alt="home-header"/>
+      <img class="w-[100%]" src="images/home-header.png" alt="home-header"/>
     </div>
     <div  class="hidden md:block">
-      <img class="w-[100%]" src="/images/home-header-sm.png" alt="home-header"/>
+      <img class="w-[100%]" src="images/home-header-sm.png" alt="home-header"/>
     </div>
     <div class="absolute top-[50%] right-[10%] text-fontPrimary w-[580px] translate-y-[-50%] flex flex-col items-end 
       lg:right-[5%]">
