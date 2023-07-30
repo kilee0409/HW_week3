@@ -1,0 +1,28 @@
+/* @import './base.css'; */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer base {
+  html {
+    font-family: 'Noto Sans TC', 'Roboto';
+  }
+} */
+@layer components {
+  /* @import "@/assets/components/btn.css"; */
+  .btn {
+      @apply bg-primary py-[6px] px-[12px] text-fontSecondary text-[16px] flex items-center justify-center cursor-pointer;
+  }
+
+  .logo {
+    @apply w-[80px] h-[50px] m-[16px];
+  }
+
+  .nav-item {
+    @apply block py-[25px] md:w-[50%] md:text-center md:border md:border-fontSecondary md:text-[16px];
+  }
+
+  .social-icon {
+    @apply w-[50px] h-[50px] md:w-[24px] md:h-[24px];
+  }
+}
