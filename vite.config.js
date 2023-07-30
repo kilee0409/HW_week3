@@ -14,5 +14,5 @@ export default defineConfig({
     }
   },
   // //打包後的路徑
-  base: './'
+  base: '/HW_week3/'
 })
